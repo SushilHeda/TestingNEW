@@ -11,7 +11,9 @@ public class SushilPratice {
 		gettargetedvalue();
 		
 	}
-
+	
+	System.out.println("Hello updated");
+	
 	private static void gettargetedvalue() {
 
 	int target = 8;
